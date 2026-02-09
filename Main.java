@@ -2,6 +2,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		System.out.println("---START---");
+		System.out.println();
 		System.out.println("______________¶¶¶\n" +
                 "_____________¶¶_¶¶¶¶\n" +
                 "____________¶¶____¶¶¶\n" +
@@ -35,7 +36,6 @@ public class Main {
                 "__¶¶________¶¶¶____¶¶\n" +
                 "____¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n");
 		System.out.println();
-        System.out.println("---END---");
+       		System.out.println("---END---");
 	}
 }
- 
